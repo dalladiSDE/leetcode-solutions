@@ -7,6 +7,7 @@ My LeetCode solutions in Java with clean code and explanations.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0821-shortest-distance-to-a-character](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dalladiSDE/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -14,6 +15,7 @@ My LeetCode solutions in Java with clean code and explanations.
 | [0042-trapping-rain-water](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0541-reverse-string-ii](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dalladiSDE/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
 |  |
@@ -40,6 +42,7 @@ My LeetCode solutions in Java with clean code and explanations.
 | ------- |
 | [0541-reverse-string-ii](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
