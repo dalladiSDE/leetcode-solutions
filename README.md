@@ -44,6 +44,7 @@ My LeetCode solutions in Java with clean code and explanations.
 | ------- |
 | [0389-find-the-difference](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -63,4 +64,8 @@ My LeetCode solutions in Java with clean code and explanations.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0389-find-the-difference) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dalladiSDE/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
